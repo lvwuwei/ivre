@@ -1,1 +1,3 @@
-#install in kali linux about 23m  command simple just do #apt install ivre
+#install in kali linux about 23m  command simple just do 
+#look site orginal https://ivre.rocks/
+apt install ivre
